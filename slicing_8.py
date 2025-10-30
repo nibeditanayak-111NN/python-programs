@@ -1,0 +1,23 @@
+str=[]
+str=[1,2,3,4,5,6,7,8,9]
+print(str[1:4])
+print(str[:6])
+print(str[3:])
+name=[]
+name='bibek rout'
+print(name[1:5])
+print(name[:7])
+print(name[0:])
+print(name[:-5])
+print(name[-3:])
+print(name)
+print(name[3])
+print(name[0])
+print(name[2])   
+print(name.endswith('r'))
+print(name.capitalize())
+print(name.find('b'))
+print(name.count('k'))
+print(name.replace('bibek','gunthhu'))
+print(name.upper())
+print(name.lower())

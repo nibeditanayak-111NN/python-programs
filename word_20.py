@@ -1,0 +1,1 @@
+name=input("enter anything you want to print")

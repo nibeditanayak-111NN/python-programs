@@ -1,0 +1,6 @@
+print("my name is nibedita nayak.")
+print("my age is 19.")
+print("branch cse.")
+print("2nd year btech.")
+print("giet baniatangi","bput roerkela")
+print(2345)
