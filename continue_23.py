@@ -14,4 +14,5 @@ for i in range(10):
  if i==3:
     continue
  print(10*i)
+
  num+=1
