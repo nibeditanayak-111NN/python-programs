@@ -7,3 +7,4 @@ if num%2==0:
 else:
    print(num,"is not odd number")
 
+
