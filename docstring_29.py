@@ -4,3 +4,4 @@ def square(n):
 
 square(67)
 print(square.__doc__)
+
