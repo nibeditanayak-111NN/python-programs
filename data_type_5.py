@@ -15,3 +15,4 @@ print(type(price))
 print(type(old))
 print(type(a))
 
+
