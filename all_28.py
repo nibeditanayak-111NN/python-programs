@@ -27,17 +27,4 @@ print(student)
 print(student.get("name"))
 print(student.get("roll"))
 print(student.get("std"))
-marks = [10,11,12,13,14,15,16,17,18,19,20]
-print(marks)
-print(marks[2:6])
-student ={
-    "name":"nibedita",
-    "age": 22,
-    "class": 90,
-    "roll": 10,
-    "marks":95
-}
-print(student)
-print(student.get("name"))
-print(student.get("roll"))
-print(student.get("std"))
+
